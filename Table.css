@@ -1,0 +1,81 @@
+table {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    height: 955px;
+}
+
+td {
+    width: 5%;
+    height: 7.6%;
+}
+
+.Numero {
+    font-size: 12px;
+}
+
+.Letra {
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.Letra2 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.semborda {
+    border-color: transparent;
+}
+
+
+.Gases {
+    background-color: cornflowerblue;
+    border: solid;
+}
+
+.NãoMetais {
+    background-color: rgb(152, 135, 245);
+    border: solid
+}
+
+.Semimetais {
+    background-color: rgb(211, 119, 211);
+    border: solid
+}
+
+.MetaisCalcalinos {
+    background-color: rgb(130, 197, 42);
+    border: solid
+}
+
+.MetaisTerrosos {
+    background-color: gold;
+    border: solid
+}
+
+.C1 {
+    background-color: rgb(231, 97, 97);
+    border: solid
+}
+
+.Outros {
+    background-color: rgb(130, 205, 248);
+    border: solid
+}
+
+.Lantanídeos {
+    background-color: rgb(139, 240, 240);
+    border: solid
+}
+.Actinídios {
+    background-color: rgb(255, 160, 242);
+    border: solid  
+}
+
+.Halogênios {background-color: rgb(255, 160, 242);
+    border: solid;  }
+    .c3 {background-color: rgb(255, 83, 203); border: solid; }
